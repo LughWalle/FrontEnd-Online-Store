@@ -3,7 +3,7 @@
 ## Clone o repositório
   * `git clone git@github.com:tryber/sd-06-project-frontend-online-store.git`.
   * Entre, através do terminal, na pasta do repositório que você acabou de clonar:
-    * `cd sd-06-project-frontend-online-store
+    * `cd sd-06-project-frontend-online-store`
 
 ## Instale as dependências e inicialize o projeto
   * Instale as dependências:
