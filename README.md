@@ -1,3 +1,19 @@
+# Como vizualizar o projeto
+(necessário ter instalado o git e o npm)
+## Clone o repositório
+  * `git clone git@github.com:tryber/sd-06-project-frontend-online-store.git`.
+  * Entre, através do terminal, na pasta do repositório que você acabou de clonar:
+    * `cd sd-06-project-frontend-online-store
+
+## Instale as dependências e inicialize o projeto
+  * Instale as dependências:
+    * `npm install`
+  * Inicialize o projeto:
+    * `npm start`
+
+
+# Readme antigo do projeto
+
 # Boas vindas ao repositório do projeto de Front-End Online Store!
 
 Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora, para desenvolver os projetos, você deverá seguir as instruções a seguir. Fique atento a cada passo, e se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
